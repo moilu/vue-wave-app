@@ -7,13 +7,13 @@
 
 <script>
 import Wave from './components/Wave.vue'
-// import { ethers } from 'ethers'
 
 export default {
   name: 'App',
   components: {
     Wave
-  }
+  },
+  
 }
 </script>
 

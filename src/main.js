@@ -1,6 +1,5 @@
 import Vue from 'vue'
 import App from './App.vue'
-// import { ethers } from 'ethers'
 
 
 Vue.config.productionTip = false
